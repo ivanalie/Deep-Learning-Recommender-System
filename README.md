@@ -1,7 +1,4 @@
-# Kaggle-Projects
-
-<b> Project Title </b>: Deep Learning Based Recommender System <br>
-By: Ivana <br>
+# Deep Learning Based Recommender System (by Ivana)
 
 There are Two (2) parts to approach building a recommender system: <br>
 <b> Part-1 </b>: Upsell/Cross-sell for Existing Users <br>
