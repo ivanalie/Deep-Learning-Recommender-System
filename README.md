@@ -1,5 +1,5 @@
 # Deep Learning Based Recommender System
-Author: Ivana
+<i> Author: Ivana </i> <br>
 There are Two (2) parts to approach building a recommender system: <br>
 <b> Part-1 </b>: Upsell/Cross-sell for Existing Users <br>
 <b> Part-2 </b>: New Users (what products to recommend) <br>
